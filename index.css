@@ -12,6 +12,7 @@ body {
     overflow: auto;
     height: 100%;
     padding: 0;
+    position: relative;
 }
 
 h3{
@@ -35,6 +36,9 @@ button{
     width: 437px;
     height: 241px;
     padding: 27px 0px;
+    position: absolute;
+    bottom: 150px;
+    left: 450px;
 }
 
 .score{
